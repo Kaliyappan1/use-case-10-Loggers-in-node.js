@@ -1,0 +1,70 @@
+{"level":"info","message":"success the logging","service":"user-service"}
+{"level":"error","message":"something wrong","service":"user-service"}
+[32minfo[39m:    success the logging
+[31merror[39m:   something wrong
+{
+  message: 'success the logging',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-03-27T15:19:49.380Z'
+}
+{
+  message: 'something wrong',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-03-27T15:19:49.392Z'
+}
+{
+  message: 'success the logging',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-03-27T15:31:38.379Z'
+}
+{
+  message: 'something wrong',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-03-27T15:31:38.390Z'
+}
+{
+  level: 'error',
+  message: 'this comment is danger',
+  service: 'user-service',
+  timestamp: '2024-03-27T15:37:29.682Z'
+}
+{
+  message: 'success the logging',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-03-27T15:37:29.687Z'
+}
+{
+  message: 'something wrong',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-03-27T15:37:29.688Z'
+}
+{
+  level: 'error',
+  message: 'this comment is danger',
+  service: 'user-service',
+  timestamp: '2024-03-27T15:38:33.818Z'
+}
+{
+  message: 'success the logging',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-03-27T15:38:33.827Z'
+}
+{
+  level: 'error',
+  message: 'this comment is danger',
+  service: 'user-service',
+  timestamp: '2024-03-27T15:40:21.760Z'
+}
+{
+  message: 'success the logging',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2024-03-27T15:40:21.766Z'
+}

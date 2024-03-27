@@ -1,0 +1,44 @@
+{"level":"error","message":"something wrong","service":"user-service"}
+[31merror[39m:   something wrong
+{
+  message: 'something wrong',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-03-27T15:19:49.392Z'
+}
+{
+  message: 'something wrong',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-03-27T15:31:38.390Z'
+}
+{
+  message: 'something wrong',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-03-27T15:35:41.826Z'
+}
+{
+  level: 'error',
+  message: 'this comment is danger',
+  service: 'user-service',
+  timestamp: '2024-03-27T15:37:29.682Z'
+}
+{
+  message: 'something wrong',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2024-03-27T15:37:29.688Z'
+}
+{
+  level: 'error',
+  message: 'this comment is danger',
+  service: 'user-service',
+  timestamp: '2024-03-27T15:38:33.818Z'
+}
+{
+  level: 'error',
+  message: 'this comment is danger',
+  service: 'user-service',
+  timestamp: '2024-03-27T15:40:21.760Z'
+}
